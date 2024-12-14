@@ -2,6 +2,7 @@
 An SQL music store analysis involves querying and analyzing a database of a digital or physical music store to extract insights.This typically includes examining sales data, customer demographics, popular tracks or genres, inventory, and financial performance. Common tasks might involve identifying top-selling artists, tracking customer purchase trends, calculating revenue, and assessing the performance of marketing campaigns. The goal is to leverage data-driven insights for strategic decision-making and improving business operations.
 
 #Key Features of SQL Music Store Analysis :
+
 1.Sales Analysis:
 Understand top-selling songs, albums, or genres and track overall sales performance.
 
@@ -24,7 +25,9 @@ Manage employee schedules, attendance, and productivity.
 Use data to identify areas where employees need additional support or training.
 
 
+
 #Objectives of SQL Music Store Analysis:
+
 1.Improve Sales Performance:
 Understand which employees and products drive the most revenue.
 
